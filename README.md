@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, my name is Sky Suh
 
 <!--
 **sjp2023/sjp2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
